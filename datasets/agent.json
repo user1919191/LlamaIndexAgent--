@@ -1,0 +1,87 @@
+{
+  "domain": "Agent",
+  "domain_cn": "智能体",
+  "description": "计算机领域 Agent 方向候选文献清单，选出一篇标准参考文献，其余为候选文献；包含标注、标题与检索链接。",
+  "standard": {
+    "id": "agent-01",
+    "annotation": {
+      "domain": "Agent",
+      "doc_type": "网络首发",
+      "intended_use": "标准参考文献/全文测试集基准"
+    },
+    "title": "科研场景下的智能体技术与应用研究",
+    "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=科研场景下的智能体技术与应用研究"
+  },
+  "papers": [
+    {
+      "id": "agent-02",
+      "annotation": {
+        "domain": "Agent",
+        "doc_type": "网络首发",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "面向人机协作的智能体训练方法研究综述",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=面向人机协作的智能体训练方法研究综述"
+    },
+    {
+      "id": "agent-03",
+      "annotation": {
+        "domain": "Agent",
+        "doc_type": "期刊论文",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "基于Agent的民航智能化应用综述",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=基于Agent的民航智能化应用综述"
+    },
+    {
+      "id": "agent-04",
+      "annotation": {
+        "domain": "Agent",
+        "doc_type": "期刊论文",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "基座模型技术背景下的具身智能体综述",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=基座模型技术背景下的具身智能体综述"
+    },
+    {
+      "id": "agent-05",
+      "annotation": {
+        "domain": "Agent",
+        "doc_type": "网络首发",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "基于大语言模型的多智能体系统异常综述",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=基于大语言模型的多智能体系统异常综述"
+    },
+    {
+      "id": "agent-06",
+      "annotation": {
+        "domain": "Agent",
+        "doc_type": "网络首发",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "多智能体协同规划综述：问题分类与前沿进展",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=多智能体协同规划综述 问题分类与前沿进展"
+    },
+    {
+      "id": "agent-07",
+      "annotation": {
+        "domain": "Agent",
+        "doc_type": "期刊论文",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "智能博弈决策大模型智能体技术综述",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=智能博弈决策大模型智能体技术综述"
+    },
+    {
+      "id": "agent-08",
+      "annotation": {
+        "domain": "Agent",
+        "doc_type": "网络首发",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "基于多智能体强化学习的博弈综述",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=基于多智能体强化学习的博弈综述"
+    }
+  ]
+}
