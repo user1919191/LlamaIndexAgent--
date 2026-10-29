@@ -51,7 +51,7 @@
 | `domain_cn` | `string` | 领域中文名称，便于人工阅读。 |
 | `description` | `string` | 该文件的简要说明，注明“仅含标注、标题与链接”。 |
 | `standard` | `object` | **标准参考文献**。每个领域选定 1 篇，作为该领域测试基准或对照文献。 |
-| `papers` | `array<object>` | **候选文献列表**。每个领域 10 篇，与 `standard` 共同构成 11 篇全文候选。 |
+| `papers` | `array<object>` | **候选文献列表**。每个领域 5-10 篇，与 `standard`。 |
 
 > `standard` 与 `papers` 中的对象结构完全一致，区别仅在语义：`standard` 用于锚定基准，`papers` 用于扩充测试样本。
 
