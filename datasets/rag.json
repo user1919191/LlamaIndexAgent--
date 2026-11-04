@@ -1,0 +1,87 @@
+{
+  "domain": "RAG",
+  "domain_cn": "检索增强生成",
+  "description": "计算机领域 RAG 方向候选文献清单，选出一篇标准参考文献，其余为候选文献；仅包含标注、标题与检索链接。",
+  "standard": {
+    "id": "rag-01",
+    "annotation": {
+      "domain": "RAG",
+      "doc_type": "期刊论文",
+      "intended_use": "标准参考文献/全文测试集基准"
+    },
+    "title": "面向知识密集型任务的检索增强生成技术综述",
+    "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=面向知识密集型任务的检索增强生成技术综述"
+  },
+  "papers": [
+    {
+      "id": "rag-02",
+      "annotation": {
+        "domain": "RAG",
+        "doc_type": "期刊论文",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "检索增强生成的概念、核心技术与面临的挑战",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=检索增强生成的概念 核心技术与面临的挑战"
+    },
+    {
+      "id": "rag-03",
+      "annotation": {
+        "domain": "RAG",
+        "doc_type": "期刊论文",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "基于大型语言模型的检索增强生成综述",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=基于大型语言模型的检索增强生成综述"
+    },
+    {
+      "id": "rag-04",
+      "annotation": {
+        "domain": "RAG",
+        "doc_type": "期刊论文",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "检索增强生成技术研究综述",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=检索增强生成技术研究综述"
+    },
+    {
+      "id": "rag-05",
+      "annotation": {
+        "domain": "RAG",
+        "doc_type": "期刊论文",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "从RAG到SAGE：现状与展望",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=从RAG到SAGE 现状与展望"
+    },
+    {
+      "id": "rag-06",
+      "annotation": {
+        "domain": "RAG",
+        "doc_type": "期刊论文",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "基于检索增强生成的开放域问答方法研究",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=基于检索增强生成的开放域问答方法研究"
+    },
+    {
+      "id": "rag-07",
+      "annotation": {
+        "domain": "RAG",
+        "doc_type": "网络首发",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "面向科创管理的图谱引导检索增强生成框架",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=面向科创管理的图谱引导检索增强生成框架"
+    },
+    {
+      "id": "rag-08",
+      "annotation": {
+        "domain": "RAG",
+        "doc_type": "期刊论文",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "基于GraphRAG的大数据知识学习系统",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=基于GraphRAG的大数据知识学习系统"
+    }
+  ]
+}
