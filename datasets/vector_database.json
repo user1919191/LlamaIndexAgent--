@@ -1,0 +1,77 @@
+{
+  "domain": "Vector Database",
+  "domain_cn": "向量数据库",
+  "description": "计算机领域向量数据库方向候选文献清单，选出一篇标准参考文献，其余为候选文献；仅包含标注、标题与检索链接。",
+  "standard": {
+    "id": "vecdb-04",
+    "annotation": {
+      "domain": "Vector Database",
+      "doc_type": "期刊专题",
+      "intended_use": "标准参考文献/全文测试集基准"
+    },
+    "title": "向量数据库中近似最近邻搜索关键技术综述",
+    "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=向量数据库中近似最近邻搜索关键技术综述"
+  },
+  "papers": [
+    {
+      "id": "vecdb-01",
+      "annotation": {
+        "domain": "Vector Database",
+        "doc_type": "网络首发",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "向量数据库及其应用研究",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=向量数据库及其应用研究"
+    },
+    {
+      "id": "vecdb-02",
+      "annotation": {
+        "domain": "Vector Database",
+        "doc_type": "期刊论文",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "关注向量数据库技术与产业发展及相关建议",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=关注向量数据库技术与产业发展及相关建议"
+    },
+    {
+      "id": "vecdb-03",
+      "annotation": {
+        "domain": "Vector Database",
+        "doc_type": "期刊专题",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "向量数据库的K近邻图高效更新方法",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=向量数据库的K近邻图高效更新方法"
+    },
+    {
+      "id": "vecdb-04",
+      "annotation": {
+        "domain": "Vector Database",
+        "doc_type": "网络首发",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "大规模向量存储系统研究综述",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=大规模向量存储系统研究综述"
+    },
+    {
+      "id": "vecdb-05",
+      "annotation": {
+        "domain": "Vector Database",
+        "doc_type": "网络首发",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "面向向量数据的图查询加速器研究",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=面向向量数据的图查询加速器研究"
+    },
+    {
+      "id": "vecdb-06",
+      "annotation": {
+        "domain": "Vector Database",
+        "doc_type": "网络首发",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "基于时空局部性感知的固态盘图索引近似最近邻搜索方法研究",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=基于时空局部性感知的固态盘图索引近似最近邻搜索方法研究"
+    }
+  ]
+}
