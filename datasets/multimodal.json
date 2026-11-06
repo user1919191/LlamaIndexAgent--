@@ -1,0 +1,77 @@
+{
+  "domain": "Multimodal",
+  "domain_cn": "多模态",
+  "description": "计算机领域多模态方向候选文献清单，选出一篇标准参考文献，其余为候选文献；仅包含标注、标题与检索链接。标准文献已更换为知网可稳定检索的《视听多模态学习综述》。",
+  "standard": {
+    "id": "mm-01",
+    "annotation": {
+      "domain": "Multimodal",
+      "doc_type": "网络首发",
+      "intended_use": "标准参考文献/全文测试集基准"
+    },
+    "title": "视听多模态学习综述",
+    "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=视听多模态学习综述"
+  },
+  "papers": [
+    {
+      "id": "mm-02",
+      "annotation": {
+        "domain": "Multimodal",
+        "doc_type": "期刊论文",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "视觉语言大模型的幻觉综述：成因、评估与治理",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=视觉语言大模型的幻觉综述 成因 评估与治理"
+    },
+    {
+      "id": "mm-03",
+      "annotation": {
+        "domain": "Multimodal",
+        "doc_type": "期刊论文",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "视觉—语言—动作模型综述：从前史到前沿",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=视觉 语言 动作模型综述 从前史到前沿"
+    },
+    {
+      "id": "mm-04",
+      "annotation": {
+        "domain": "Multimodal",
+        "doc_type": "网络首发",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "多模态持续学习方法研究进展",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=多模态持续学习方法研究进展"
+    },
+    {
+      "id": "mm-05",
+      "annotation": {
+        "domain": "Multimodal",
+        "doc_type": "期刊论文",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "多模态知识图谱补全研究综述",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=多模态知识图谱补全研究综述"
+    },
+    {
+      "id": "mm-06",
+      "annotation": {
+        "domain": "Multimodal",
+        "doc_type": "会议论文",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "大模型多模态对齐方法综述",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=大模型多模态对齐方法综述"
+    },
+    {
+      "id": "mm-07",
+      "annotation": {
+        "domain": "Multimodal",
+        "doc_type": "期刊论文",
+        "intended_use": "全文测试集候选"
+      },
+      "title": "多模态理解与生成模型研究综述",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=多模态理解与生成模型研究综述"
+    }
+  ]
+}
