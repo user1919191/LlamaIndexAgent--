@@ -1,0 +1,87 @@
+{
+  "domain": "Neural Network",
+  "domain_cn": "神经网络",
+  "description": "计算机领域神经网络方向候选文献清单。标准文献为《神经网络轻量化综述》，该综述按剪枝、量化、知识蒸馏、神经架构搜索、低秩分解五个子方向组织，结构清晰，便于撰写；其余文献均围绕这五个子方向或轻量化的典型应用场景选取，可为标准文献提供直接支撑。仅包含标注、标题与检索链接。",
+  "standard": {
+    "id": "nn-10",
+    "annotation": {
+      "domain": "Neural Network",
+      "doc_type": "期刊论文",
+      "intended_use": "标准参考文献/全文测试集基准"
+    },
+    "title": "神经网络轻量化综述",
+    "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=神经网络轻量化综述"
+  },
+  "papers": [
+    {
+      "id": "nn-01",
+      "annotation": {
+        "domain": "Neural Network",
+        "doc_type": "期刊论文",
+        "intended_use": "支撑剪枝子方向"
+      },
+      "title": "神经网络滤波器剪枝技术研究综述",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=神经网络滤波器剪枝技术研究综述"
+    },
+    {
+      "id": "nn-02",
+      "annotation": {
+        "domain": "Neural Network",
+        "doc_type": "期刊论文",
+        "intended_use": "支撑量化子方向"
+      },
+      "title": "深度神经网络低比特量化方法综述",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=深度神经网络低比特量化方法综述"
+    },
+    {
+      "id": "nn-03",
+      "annotation": {
+        "domain": "Neural Network",
+        "doc_type": "期刊论文",
+        "intended_use": "支撑知识蒸馏子方向"
+      },
+      "title": "AI知识蒸馏技术演进与应用综述",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=AI知识蒸馏技术演进与应用综述"
+    },
+    {
+      "id": "nn-04",
+      "annotation": {
+        "domain": "Neural Network",
+        "doc_type": "期刊论文",
+        "intended_use": "支撑神经架构搜索（NAS）子方向"
+      },
+      "title": "神经架构搜索技术研究综述",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=神经架构搜索技术研究综述"
+    },
+    {
+      "id": "nn-05",
+      "annotation": {
+        "domain": "Neural Network",
+        "doc_type": "期刊论文",
+        "intended_use": "支撑低秩分解/综合压缩子方向"
+      },
+      "title": "深度神经网络压缩与加速综述",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=深度神经网络压缩与加速综述"
+    },
+    {
+      "id": "nn-06",
+      "annotation": {
+        "domain": "Neural Network",
+        "doc_type": "期刊论文",
+        "intended_use": "支撑轻量化设计（空间/结构侧）"
+      },
+      "title": "轻量化深度卷积神经网络设计研究进展",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=轻量化深度卷积神经网络设计研究进展"
+    },
+    {
+      "id": "nn-07",
+      "annotation": {
+        "domain": "Neural Network",
+        "doc_type": "期刊论文",
+        "intended_use": "支撑目标检测轻量化应用"
+      },
+      "title": "轻量化目标检测模型算法综述",
+      "link": "https://kns.cnki.net/kns8s/defaultresult/index?kw=轻量化目标检测模型算法综述"
+    }
+  ]
+}
